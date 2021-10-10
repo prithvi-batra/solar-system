@@ -1,0 +1,13 @@
+body{ 
+    background-image: url(bi.jpg);
+    color:#E8EAF6;
+  }
+  h2{
+    font-family:verdana;
+  transition: step-end;
+    color:#8f783a;
+
+  }
+.header{
+     color:#639b8f; 
+}
